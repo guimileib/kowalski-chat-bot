@@ -28,7 +28,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone git@github.com:guimileib/kowalski-chat-bot.git
 cd nome-do-repositorio
 ```
 ### 2. Crie um Ambiente Virtual
